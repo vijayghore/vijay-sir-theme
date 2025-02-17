@@ -1,0 +1,39 @@
+{
+    "name": "vijay-sir-theme",
+    "displayName": "Vijay Sir Theme",
+    "description": "A beautifully designed dark and light theme for making code look better, perfect for developers seeking a clean and modern look.",
+    "version": "0.0.2",
+    "icon": "theme-icon.jpeg",
+    "publisher": "vijayghore",
+    "engines": {
+        "vscode": "^1.96.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "theme",
+        "vs theme",
+        "dark theme",
+        "visual studio code theme",
+        "vs code theme",
+        "developer theme",
+        "vijay theme",
+        "blue theme",
+        "developer favorite theme",
+        "vijay favorite theme",
+        "dark theme",
+        "vijay sir theme",
+        "vijay sir",
+        "vijay sir dark theme"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Vijay Sir Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Vijay Sir Theme-color-theme.json"
+            }
+        ]
+    }
+}
