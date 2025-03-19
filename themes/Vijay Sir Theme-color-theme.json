@@ -61,7 +61,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold italic",
-				"foreground": "#86a7b8"
+				"foreground": "#f1e150",
 			}
 		},
 		{
@@ -195,7 +195,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#c0da99"
+				"foreground": "#72e9c5"
 			}
 		},
 		{

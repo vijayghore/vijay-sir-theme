@@ -1,16 +1,49 @@
-# vijay-sir-theme README
+# Vijay Sir Dark Theme
 
-## Working with Markdown
+A carefully crafted dark theme for Visual Studio Code that provides excellent contrast and readability while being easy on the eyes.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Features
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+- Dark, professional color scheme optimized for long coding sessions
+- Carefully selected colors for syntax highlighting
+- Improved contrast for better readability
+- Support for multiple programming languages
+- Customized UI elements (activity bar, side bar, status bar, etc.)
+- Optimized for both light and dark mode
 
-## For more information
+## Installation
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+1. Open VS Code
+2. Go to the Extensions view (`Ctrl+Shift+X` or `Cmd+Shift+X`)
+3. Search for "Vijay Sir Dark Theme"
+4. Click Install
 
-**Enjoy!**
+## Usage
+
+1. Open the Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P`)
+2. Type "Color Theme" and select "Preferences: Color Theme"
+3. Choose "Vijay Sir Dark Theme" from the list
+
+## Color Palette
+
+The theme uses a carefully selected color palette:
+
+- Background: `#080f18`
+- Foreground: `#c8ffff`
+- Accent Colors:
+  - Blue: `#1e90ff`
+  - Purple: `#d16ba5`
+  - Yellow: `#ffdd81`
+  - Green: `#c0da99`
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## Support
+
+If you encounter any issues or have suggestions, please open an issue on the GitHub repository.
+
+---
+
+**Enjoy coding with Vijay Sir Dark Theme!**
