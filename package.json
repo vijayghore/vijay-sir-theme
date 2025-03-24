@@ -2,7 +2,7 @@
     "name": "vijay-sir-theme",
     "displayName": "Vijay Sir Theme",
     "description": "A beautifully designed dark and light theme for making code look better, perfect for developers seeking a clean and modern look.",
-    "version": "0.0.2",
+    "version": "0.0.4",
     "icon": "theme-icon.jpeg",
     "publisher": "vijayghore",
     "engines": {
